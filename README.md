@@ -15,16 +15,23 @@ using the Caesar Cipher algorithm.
 
 Caesar Cipher Encryption and Decryption
 Would you like to (E)ncrypt or (D)ecrypt? E
+
 Enter your message: gokul
+
 Enter the shift value (integer): 3
+
 Encrypted message: jrnxo
 
 #Decryption
 
 Caesar Cipher Encryption and Decryption
+
 Would you like to (E)ncrypt or (D)ecrypt? D
+
 Enter your message: jrnxo
+
 Enter the shift value (integer): 3
+
 Decrypted message: gokul
 
 
